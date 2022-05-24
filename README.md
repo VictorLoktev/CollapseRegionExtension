@@ -19,7 +19,7 @@ https://github.com/Vlad-Herus/CollapseRegionExtension
 
 ***
 
-## `#region - #endrerion`
+## `#region - #endregion`
 
 
 Supports '#region', '#pragma region' and '<!--region'.
@@ -47,10 +47,10 @@ Default keys are **Shift**+**Num-**.
 
 ## `/// <summary> - </summary>`
 
-RegionManagement.ExpandAllSummary expands all xml-comments with <sammary> tag.\
+RegionManagement.ExpandAllSummary expands all xml-comments with <summary> tag.\
 Default keys are **Control**+**R** **Control**+**Num+**.
 
-RegionManagement.CollapseAllSummary collapses all xml-comments with <sammary> tag.\
+RegionManagement.CollapseAllSummary collapses all xml-comments with <summary> tag.\
 Default keys are **Control**+**R** **Control**+**Num-**.
 
 ***
