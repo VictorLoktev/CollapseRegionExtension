@@ -8,6 +8,7 @@ Works with
 Visual Studio **2022** **x64**
 * Microsoft.VisualStudio.Community
 * Microsoft.VisualStudio.Pro
+* Microsoft.VisualStudio.Exterprise
 
 https://github.com/VictorLoktev/CollapseRegionExtension
 
